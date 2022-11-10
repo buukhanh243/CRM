@@ -43,18 +43,6 @@
 
 </div>
 
-## HÌNH ẢNH DEMO
-<p align="center">
-<img src="https://raw.githubusercontent.com/Tynab/CRM-Project/master/pic/0.jpg"></img>
-</p>
-
-## VIDEO DEMO
-<div align="center">
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3W1kdSJdITo/0.jpg)](https://youtu.be/3W1kdSJdITo)
-
-</div>
-
 ## CẤU HÌNH API REFRESH TOKEN
 ```java
 // Refresh token
